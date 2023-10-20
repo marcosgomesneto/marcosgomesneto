@@ -2,17 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 <p id="buttons" align="center">
-  <a href="https://www.linkedin.com/in/marcos-gomes-13083a25/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/mgn.stack/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/marcos-gomes-13083a25/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://www.instagram.com/mgn.stack/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </p>
 <p align="center">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosgomesneto&theme=github_dark"/>
 </p>
 
-<p align="center">
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosgomesneto&theme=github_dark"/>
-</p>
+
+#### Favorite Stacks:
+
+<div>
+<a href="https://vuejs.org/" rel="nofollow" ><img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"></a><a href="https://vuetifyjs.com/" rel="nofollow" ><img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" style="max-width: 100%;"></a><a href="https://vuejs.org/" rel="nofollow" ><img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a><a href="https://pt.wikipedia.org/wiki/HTML5" rel="nofollow"><img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a><a href="https://dart.dev/" rel="nofollow"><img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="max-width: 100%;"></a><a href="https://flutter.dev/" rel="nofollow"><img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a><a href="https://laravel.com/" rel="nofollow"><img align="center" alt="Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" style="max-width: 100%;"></a><a href="https://sass-lang.com/" rel="nofollow"><img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width: 100%;"></a><a href="https://www.tensorflow.org/" rel="nofollow"><img align="center" alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" style="max-width: 100%;"></a><a href="https://yarnpkg.com/" rel="nofollow"><img align="center" alt="Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" style="max-width: 100%;"></a><a href="https://wordpress.org/" rel="nofollow"><img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" style="max-width: 100%;"></a><a href="https://woocommerce.com/" rel="nofollow"><img align="center" alt="Woocommerce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" style="max-width: 100%;"></a>
+</div>
