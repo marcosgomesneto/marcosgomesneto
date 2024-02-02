@@ -12,9 +12,13 @@
 
 ## 📖 About Me
 
-- 🖥 Full Stack Software Developer with bold ideas
-- 💻 More than 15 years working with programming and technology
-- 💡Always innovating and updating myself on new technologies
+- 👨‍💻 Full Stack Developer
+- 💡 15+ years in programming
+- 🚀 Innovator and Tech Explorer
+- 🔧 Problem Solver
+- 🌐 Polyglot Engineer
+- ✨ Open Source Contributor
+- 📐 Scalable Solutions Architec
 
 <br>
 
