@@ -41,7 +41,7 @@
 
 <br>
 
-## 👍 CodeSandbox and Codepens by me
+## 😄 Front-end animations
 
 |Name|Stacks|Code Link|
 |---|---|---|
