@@ -28,7 +28,7 @@
 
 <br>
 
-## 👍 Some nice projects created by me
+## 🙌 Some nice projects by me
 
 |Name|Stacks|Project Link|
 |---|---|---|
