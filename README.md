@@ -16,7 +16,6 @@
 - 💡 15+ years in programming
 - 🚀 Innovator and Tech Explorer
 - 🔧 Problem Solver
-- 🌐 Code Polyglot Engineer
 - ✨ Open Source Contributor
 - 📐 Scalable Solutions Architec
 
