@@ -42,7 +42,7 @@
 
 <br>
 
-## 🌐 Websites by me
+## 🌐 Some nice websites by me
 
 |Name|Stacks|Link|
 |---|---|---|
