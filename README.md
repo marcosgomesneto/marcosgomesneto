@@ -8,6 +8,7 @@
 
 <p align="center">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosgomesneto&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallycoding&layout=compact&langs_count=10&theme=dracula"/>
 </p>
 
 ## 📖 About Me
