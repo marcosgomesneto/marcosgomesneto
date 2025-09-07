@@ -12,7 +12,7 @@
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosgomesneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallycoding&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgomesneto&layout=compact&langs_count=10&theme=dracula"/>
 </p>
 
 ## 📖 About Me
